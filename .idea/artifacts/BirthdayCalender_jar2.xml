@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="BirthdayCalender:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/BirthdayCalender_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="BirthdayCalender.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/library/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="BirthdayCalender" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/Libs/mysql-connector-java-8.0.30.jar" />
+    </root>
+  </artifact>
+</component>
